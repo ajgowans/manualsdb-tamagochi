@@ -1,1 +1,2 @@
-Path in MiSTer, URL, Size in bytes (optional but recommended), MD5 Hash (optional but recommended), Filter Terms (optional)
+Path,URL,Size in bytes (optional but recommended),MD5 Hash (optional but recommended),Filter Terms (optional),Overwrite (optional),Comments (optional)
+docs/Tamagotchi/Manuals/Tamagotchi Gen 1.pdf,https://archive.org/download/mister-manuals/1997%20Bandai%20Tamagotchi.zip/1997%20Bandai%20Tamagotchi%2FTamagotchi%20Gen%201.pdf,2556166,bcd9aba3842812dd00318ad83a462bf3,,,Tamagotchi Gen 1.pdf
